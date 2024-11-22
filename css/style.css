@@ -1,0 +1,17 @@
+body {
+    background-color:#4e82f1;
+}
+
+legend {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 50px;
+    padding: 20px;
+    color: aliceblue;
+}
+form {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 40px;
+    padding: 20px;
+}
