@@ -1,5 +1,9 @@
 body {
     background-color:#4e82f1;
+    background-image: url(https://wallpapers.com/images/hd/1920x1080-hd-space-x7ca6j9gg67sjip4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 legend {
@@ -14,4 +18,17 @@ form {
     text-align: left;
     font-size: 40px;
     padding: 20px;
+    color: antiquewhite;
 }
+
+h1 {
+    font-size: 30px;
+ 
+}
+
+div {
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+   
